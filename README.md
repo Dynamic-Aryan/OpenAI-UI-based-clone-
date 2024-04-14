@@ -9,8 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-Open [ http://192.168.1.8:3000]( http://192.168.1.8:3000) to view on local network.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\n
+Open [ http://192.168.1.8:3000]( http://192.168.1.8:3000) to view on local network.\n
 Open [Site Link](https://open-aiuibased.netlify.app/) for viewing it on any screen.
 
 The page will reload when you make changes.\
